@@ -15,6 +15,9 @@ Contributions are always welcome!
 See [contributing.md](https://github.com/pratikbutani/awesome-flutter-snippets/blob/main/contributing.md) for ways to get started.
 
 
+## Official Links
+- https://hacktoberfest.com/
+
 ## Authors
 
 - [@pratikbutani](https://www.github.com/pratikbutani)
