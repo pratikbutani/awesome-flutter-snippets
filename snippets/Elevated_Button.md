@@ -1,8 +1,5 @@
 ElevatedButton(
   style: ElevatedButton.styleFrom(
-    primary: Colors.blue, //button's fill color
-    onPrimary: Colors.red, //specify the color of the button's text and icons as well as the overlay colors used to indicate the hover, focus, and pressed states
-    onSurface: Colors.orange, //specify the button's disabled text, icon, and fill color
     shadowColor: Colors.black, //specify the button's elevation color
     elevation: 4.0, //buttons Material shadow
     textStyle: TextStyle(fontFamily: 'roboto'), //specify the button's text TextStyle
@@ -22,3 +19,5 @@ ElevatedButton(
     onLongPress: () => {}, //set both onPressed and onLongPressed to null to see the disabled properties
     child: Text('ElevatedButton')
 ),
+
+DartPad:https://dartpad.dev/?id=e75b493dae1287757c5e1d77a0dc73f1
