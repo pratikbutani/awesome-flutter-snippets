@@ -1,5 +1,7 @@
 # Counter Animation
 
+![counter_animation](https://user-images.githubusercontent.com/28589666/194556832-61071d6b-dae7-4100-bf42-e483195f9ab1.gif)
+
 Code:
 
 ```
