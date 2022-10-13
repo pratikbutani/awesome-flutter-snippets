@@ -1,7 +1,7 @@
 // Add Function in code
 
 
-   void showAlertDialog(BuildContext context) {
+    void showAlertDialog(BuildContext context) {
  
     Widget noButton = TextButton(
       child: Text("No"),
@@ -33,7 +33,7 @@
         return alert;
       },
     );
-  }
+   }
    
 // Use it in your code
 
