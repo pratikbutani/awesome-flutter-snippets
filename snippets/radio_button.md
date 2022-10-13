@@ -1,6 +1,6 @@
 // Add global variable 
 
-  int _value = 0;
+     int _value = 0;
 
 // Add Function 
 
@@ -26,14 +26,14 @@
         ),
       ); 
       list.add(listTile);
+     }
+     return Column(children : list);
     }
-    return Column(children : list);
-  }
    
 
 // Use it in your code
 
-   Container(
+     Container(
             alignment: Alignment.center,
             child: Column(
               children: [
@@ -42,8 +42,8 @@
                   style: TextStyle(color: Colors.black),
                 ),
             ]
-     ) 
-   ),
+        ) 
+      ),
 
     
 Here is the [Dartpad](https://dartpad.dev/?id=635669092c47677af1260f8e2b5712e4)
