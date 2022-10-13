@@ -24,14 +24,13 @@
             });
           },
         ),
-      );
-      
+      ); 
       list.add(listTile);
     }
-      
     return Column(children : list);
   }
    
+
 // Use it in your code
 
    Container(
@@ -42,9 +41,9 @@
                  Text('Selected Value : Radio ${_value+1}',
                   style: TextStyle(color: Colors.black),
                 ),
-              ]
-            ) 
-        ),
+            ]
+     ) 
+   ),
 
     
 Here is the [Dartpad](https://dartpad.dev/?id=635669092c47677af1260f8e2b5712e4)
