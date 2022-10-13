@@ -33,7 +33,7 @@
         return alert;
       },
     );
-   }
+    }
    
 // Use it in your code
 
