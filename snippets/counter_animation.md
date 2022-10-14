@@ -1,6 +1,6 @@
 # Counter Animation
 
-![counter_animation](https://user-images.githubusercontent.com/28589666/194556832-61071d6b-dae7-4100-bf42-e483195f9ab1.gif)
+![counter_animation](https://user-images.githubusercontent.com/28589666/195819396-8b58d2fa-02a1-4652-9c97-1af013271a21.gif)
 
 Code:
 
@@ -33,6 +33,5 @@ ScaleTransition(
 ```
 
 ## Try out on [Dartpad](https://dartpad.dev/?id=255c3ca5791bff96867b7c355e09a702). 
-
 
 
