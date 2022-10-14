@@ -3,6 +3,23 @@
 Code:
 
 ```
+late AnimationController _controller;
+late Animation<double> _animation;
+final Tween<double> _tween = Tween(begin: 0.75, end: 1.5);
+
+//Add this in initState()
+_controller = AnimationController(
+        duration: const Duration(milliseconds: 500), vsync: this);
+
+//Add this in initState()        
+_animation = _tween
+       .animate(CurvedAnimation(parent: _controller, curve: Curves.easeOut)
+         ..addStatusListener((AnimationStatus status) {
+           if (status == AnimationStatus.completed) {
+             _controller.reverse();
+           }
+         }));        
+
 ScaleTransition(
     scale: _animation,
     alignment: Alignment.center,
