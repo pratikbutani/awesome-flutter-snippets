@@ -1,4 +1,4 @@
-# Round Container with Image in Flutter
+# Dismissible Widget (Flutter)
 
 Code:
 
