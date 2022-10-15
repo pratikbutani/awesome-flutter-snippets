@@ -38,6 +38,7 @@ Autocomplete<Country>(
            width: double.infinity,
            color: Colors.cyan,
            child: ListView.builder(
+             shrinkWrap: true,
              padding: const EdgeInsets.all(10.0),
              itemCount: options.length,
              itemBuilder: (BuildContext context, int index) {
