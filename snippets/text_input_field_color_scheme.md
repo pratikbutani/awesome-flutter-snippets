@@ -1,4 +1,4 @@
-Checkout the [demo](https://dartpad.dev/?id=1e9de65ff62acacfe2611706c5eb7246)
+### How to use
 
 ```
 theme: ThemeData().copyWith(
@@ -51,3 +51,5 @@ class MyWidget extends StatelessWidget {
   }
 }
 ```
+
+Checkout the [demo](https://dartpad.dev/?id=1e9de65ff62acacfe2611706c5eb7246)
