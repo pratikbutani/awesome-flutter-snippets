@@ -1,7 +1,7 @@
 # awesome-flutter-snippets
 A wonderful snippet that will boost you every day.
 
-<img width="2400" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/3306366/198207782-928a504c-1c67-4a46-a0f4-e4bf2d6eefa7.png">
+![hf10_banner_sponsors_1032x600](https://github.com/pratikbutani/awesome-flutter-snippets/assets/3306366/d12ddfc4-fd32-4ccd-8eaf-1cb9034f92b4)
 
 ## Idea
 
